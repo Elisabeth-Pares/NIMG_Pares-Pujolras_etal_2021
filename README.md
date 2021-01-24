@@ -1,6 +1,6 @@
 # NIMG_Pares-Pujolras_etal_2020
 
-This repository contains analysis code for the following paper: Parés-Pujolràs E., Travers, E., Ahmetoglu, Y., Haggard, P. Evidence accumulation under uncertainty - a neural marker of choice and urgency. NeuroImage (2020)
+This repository contains analysis code for the following paper: Parés-Pujolràs E., Travers, E., Ahmetoglu, Y., Haggard, P. (2021) Evidence accumulation under uncertainty - a neural marker of choice and urgency. NeuroImage 
 
 The scripts and data files included in the repository enable the replication of the data analysis and figures reported in the paper.
 
