@@ -1,4 +1,4 @@
-# NIMG_Pares-Pujolras_etal_2020
+# NIMG_Pares-Pujolras_etal_2021
 
 This repository contains analysis code for the following paper: Parés-Pujolràs E., Travers, E., Ahmetoglu, Y., Haggard, P. (2021) Evidence accumulation under uncertainty - a neural marker of choice and urgency. NeuroImage 
 
@@ -6,18 +6,14 @@ The scripts and data files included in the repository enable the replication of 
 
 The folder DATA contains several data files in various formats that allow the replication of all the results and figures reported in the paper. 
 
-  • NIMG_2020_PP_Data.csv
+  • NIMG_EPP_2021_shortData.csv.csv - contains summary EEG measures for statistical analysis
   
-  • NIMG_2020_PP_SummaryData.csv
+  • NIMG_EPP_2021_longData.csv - contains EEG data with all time-points to allow ERP plotting
 
 The folder SCRIPTS contains three main scripts:
 
-  • NIMG_2020_PP_Analysis.r 
-  
-  • NIMG_2020_PP_Modelling.py
-  
-The "NIMG_2020_PP_Modelling.py" script contains the code used to run the computational evidence accumulation and urgency models reported in the paper. This script relies on functions from the 'Evidently' package, which can be found at https://github.com/EoinTravers/Evidently. 
-  
+  • NIMG_2021_PP_Analysis.r 
+ 
   
   
 
