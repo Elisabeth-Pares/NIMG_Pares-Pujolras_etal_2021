@@ -6,17 +6,17 @@ The scripts and data files included in the repository enable the replication of 
 
 The folder DATA contains several data files in various formats that allow the replication of all the results and figures reported in the paper. 
 
-  • NIMG_EPP_2021_behaviouralData.csv - contains summary data for each trial for behavioural analysis
+      • NIMG_EPP_2021_behaviouralData.csv - contains summary data for each trial for behavioural analysis
   
-  • NIMG_EPP_2021_shortEEGData.csv - contains summary EEG measures for statistical analysis
+      • NIMG_EPP_2021_shortEEGData.csv - contains summary EEG measures for statistical analysis
     
-  • NIMG_EPP_2021_longEEGData.csv - contains full EEG single-trials, single-sample data to allow ERP plotting
+      • NIMG_EPP_2021_longEEGData.csv - contains full EEG single-trials, single-sample data to allow ERP plotting
 
 The folder SCRIPTS contains two main scripts:
 
-  • NIMG_EPP_2021_Analysis.r - this is a master script that reproduces and saves a local copy of the main statistics and figures of the main manuscript. It requires several R packages and custom functions in the SCRIPTS folder of this repository. 
+      • NIMG_EPP_2021_Analysis.r - this is a master script that reproduces and saves a local copy of the main statistics and figures of the main manuscript. It requires several R packages and custom functions in the SCRIPTS folder of this repository. 
   
-   • NIMG_EPP_2021_Modelling.r - this script contains the models used to fit the computational models in the paper. It relies on functions from the Evidently package, which you can find at https://github.com/EoinTravers/Evidently.
+      • NIMG_EPP_2021_Modelling.r - this script contains the models used to fit the computational models in the paper. It relies on functions from the Evidently package, which you can find at https://github.com/EoinTravers/Evidently.
  
   
   
