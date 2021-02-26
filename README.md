@@ -2,7 +2,7 @@
 
 This repository contains DATA and analysis SCRIPTS for the following paper: 
 
-# Parés-Pujolràs, E., Travers, E., Ahmetoglu, Y., & Haggard, P. (2021). Evidence accumulation under uncertainty – a neural marker of emerging choice and urgency. NeuroImage, 232(May 2021). https://doi.org/10.1101/2020.06.30.179622
+# Parés-Pujolràs, E., Travers, E., Ahmetoglu, Y., & Haggard, P. (2021). Evidence accumulation under uncertainty – a neural marker of emerging choice and urgency. NeuroImage, 232(May 2021). https://doi.org/10.1016/j.neuroimage.2021.117863
 
 The scripts and data files included in the repository enable the replication of the data analysis and figures reported in the paper.
 
